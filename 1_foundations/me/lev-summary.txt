@@ -1,0 +1,6 @@
+My name is Lev Zhitnik, born in Moscow, grew up in Israel. I went to college in the Technion - Israel Institute of Technology, studied Architecture, Computational Design & Urban Planning. I later co-founded a Gen-AI urban design startup, and continued on to become a Full Stack & AI Engineer.
+
+I currently work primarily with Typescript (frontend Next.js and backend Node.js) & Python (FastAPI, data, LLMs, Agents).
+Recently I built an entire AI platform for a stealth-mode startup from the ground up, both the fullstack and the AI workflows. The app helps customers focus and retain information they are reading, and also supports them presenting that information to their colleagues, using a smart LLM workflow selector for different needs and an agent that streamlines the process for the customer.
+
+I am a big lover of Sci-fi & Fantasy, love reading the Horus Heresy novels and am a life-long fan of Lord of the Rings. A hobbyist cook, photographer, and tinkerer. Can't stand grapefruit. Don't know why.
